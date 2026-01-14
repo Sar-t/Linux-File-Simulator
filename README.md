@@ -1,4 +1,4 @@
-# LINUX_File_Management_System_Emulator <!-- omit in toc -->
+# LINUX_File_Management_System_Simulator <!-- omit in toc -->
 
 
 This program simulates a simple Linux file system with basic shell command functionalities. It provides a structure to manage files and directories, akin to a simplified Linux environment. Below, you'll find detailed descriptions of the functionalities and commands available in this simulation.
